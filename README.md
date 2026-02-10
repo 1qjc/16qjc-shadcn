@@ -1,3 +1,4 @@
 # 16qjc-shadcn
 
-horizontal-scroll
+- any style
+- horizontal-scroll
